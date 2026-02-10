@@ -1,0 +1,12 @@
+
+langchain
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-community
+sentence-transformers
+## Embeddings
+langchain-huggingface
+langchain_classic
+streamlit
+
